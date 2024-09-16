@@ -1,6 +1,10 @@
+/*
+    Mssv: CE171299
+    Hoten: DO DUC DAT
+*/
 import React from "react";
 
-import { View, Text, StyleSheet, FlatList, SectionList } from "react-native";
+import { View, Text, StyleSheet, SectionList } from "react-native";
 
 const menuItemsToDisplay = [
     {
